@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1012598441896",
+    "project_id": "iqoute-d1839",
+    "storage_bucket": "iqoute-d1839.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012598441896:android:bf80a4d36b2ad362e8bf9d",
+        "android_client_info": {
+          "package_name": "com.example.iqoute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012598441896-15bkm2ok0ovoa3j6d81mtiquu17a0d08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7K9ABoNQSk9dRdFM-81aTw6bFJYVTtyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012598441896-15bkm2ok0ovoa3j6d81mtiquu17a0d08.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1012598441896-hh18tdtuli5e3nd4pufdduo3auhamead.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.iqoute"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
